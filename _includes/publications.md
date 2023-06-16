@@ -2,7 +2,7 @@
 
 <div class="publications">
 <ol class="bibliography">
-<h3 id="publications" style="margin: 2px 0px ;">2023</h3>
+<h3 id="year" style="margin: 2px 0px ;">2023</h3>
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
@@ -16,7 +16,7 @@
   </div>
 </div>
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
     <div class="title">Knowledge Unlearning for Mitigating Privacy Risks in Language Models</div>
     <div class="author">Joel Jang, <strong>Dongkeun Yoon</strong>, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo</div>
     <div class="periodical"><em>ACL 2023</em></div>
@@ -26,9 +26,20 @@
     </div>
   </div>
 </div>
-
 </li>
-  
+<h3 id="year" style="margin: 2px 0px ;">2022</h3>
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
+    <div class="title">Improving Graph-based Document-Level Relation Extraction Model with Novel Graph Structure</div>
+    <div class="author">Seongsik Park, <strong>Dongkeun Yoon</strong>, Harksoo Kim</div>
+    <div class="periodical"><em>CIKM 2022</em></div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+    </div>
+  </div>
+</div>
+</li>
 <br>
 
 </ol>
