@@ -5,7 +5,7 @@
 <h3 id="publications" style="margin: 2px 0px ;">2023</h3>
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
     <div class="title"><a>Gradient Ascent Post-training Enhances Language Model Generalization</a></div>
     <div class="author"><strong>Dongkeun Yoon<sup>*</sup></strong>, Joel Jang<sup>*</sup>, Sungdong Kim, Minjoon Seo (<sup>*</sup>Equal Contribution)</div>
     <div class="periodical"><em>ACL 2023</em></div>
