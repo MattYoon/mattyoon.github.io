@@ -12,7 +12,7 @@ Hello! I am an incoming MS & Ph.D. student at KAIST AI [Language and Knowledge L
 
 ## News
 
-- **[June 2023]** I was accepted to KAIST AI MS & Ph.D. program!
+- **[June 2023]** I was accepted to KAIST AI MS & PhD integrated program!
 - **[May 2023]** Our [Gradient Ascent Post-training](https://arxiv.org/abs/2306.07052) and [Knowledge Unlearning](https://arxiv.org/abs/2210.01504) papers were accepted to ACL 2023 main conference.
 
 {% include_relative _includes/publications.md %}
