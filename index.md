@@ -4,20 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello! I am an incoming MS & Ph.D. student at KAIST AI [Language and Knowledge Lab](https://lklab.kaist.ac.kr/). Currently, I am interested in second language adaptation of language models. More specifically, I want to convert strong language models such as LLaMa to low-resource languages.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multilingualism:** language adaptation, zero-shot cross-lingual transfer, multilingual language models
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[June 2023]** I was accepted to KAIST AI MS & Ph.D. program!
+- **[May 2023]** Our [Gradient Ascent Post-training](https://arxiv.org/abs/2306.07052) and [Knowledge Unlearning](https://arxiv.org/abs/2210.01504) papers were accepted to ACL 2023.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
