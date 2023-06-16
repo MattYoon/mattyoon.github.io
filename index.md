@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-Hello! I am an incoming MS & Ph.D. student at KAIST AI [Language and Knowledge Lab](https://lklab.kaist.ac.kr/). Currently, I am interested in second language adaptation of language models. More specifically, I want to convert strong language models such as LLaMa to low-resource languages.
+Hello! I am an incoming MS & PhD integrated student at KAIST AI [Language and Knowledge Lab](https://lklab.kaist.ac.kr/). Currently, I am interested in second language adaptation of language models. More specifically, I want to convert strong language models such as LLaMa to low-resource languages.
 
 ## Research Interests
 
-- **Multilingualism:** language adaptation, zero-shot cross-lingual transfer, multilingual language models
+- **Multilingualism:** language adaptation, zero-shot cross-lingual transfer
+- **Large Language Models:** instruction tuning, multilingual language models
 
 ## News
 
