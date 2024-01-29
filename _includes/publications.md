@@ -1,7 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications">
-<ol class="bibliography">
 <h3 id="year" style="margin: 2px 0px ;">2024</h3>
 <li>
 <div class="pub-row">
@@ -48,6 +46,3 @@
 </div>
 </li>
 <br>
-
-</ol>
-</div>
