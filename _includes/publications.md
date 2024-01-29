@@ -2,6 +2,18 @@
 
 <div class="publications">
 <ol class="bibliography">
+<h3 id="year" style="margin: 2px 0px ;">2024</h3>
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
+    <div class="title"><a href="https://arxiv.org/abs/2309.14556">LangBridge: Multilingual Reasoning Without Multilingual Supervision</a></div>
+    <div class="author"><strong>[Dongkeun Yoon]</strong>, Joel Jang, Sungdong Kim, Seungone Kim, Sheikh Shafayat, Minjoon Seo </div>
+    <div class="periodical"><em>Arxiv preprint</em></div>
+    <div class="links">
+      <a href="https://github.com/kaistAI/GAP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
 <h3 id="year" style="margin: 2px 0px ;">2023</h3>
 <li>
 <div class="pub-row">
