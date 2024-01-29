@@ -14,6 +14,7 @@
     </div>
   </div>
 </div>
+</li>  
 <h3 id="year" style="margin: 2px 0px ;">2023</h3>
 <li>
 <div class="pub-row">
