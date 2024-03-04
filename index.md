@@ -12,7 +12,7 @@ Hello! I am an MS & PhD integrated student at KAIST [Language and Knowledge Lab]
 - **Large Language Models:** instruction tuning, multilingual language models
 
 ## News
-
+- **[Mar 2024]** LangBridge was accepted to ICLR 2024 Me-FoMo workshop.
 - **[June 2023]** I was accepted to KAIST MS & PhD integrated program!
 - **[May 2023]** Our [Gradient Ascent Post-training](https://arxiv.org/abs/2306.07052) and [Knowledge Unlearning](https://arxiv.org/abs/2210.01504) papers were accepted to ACL 2023 main conference.
 
