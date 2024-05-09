@@ -10,7 +10,7 @@
     <div class="author"><strong>[Dongkeun Yoon]</strong>, Joel Jang, Sungdong Kim, Seungone Kim, Sheikh Shafayat, Minjoon Seo </div>
     <div class="periodical"><em>Arxiv preprint</em></div>
     <div class="links">
-      <a href="https://github.com/kaistAI/GAP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/kaistAI/LangBridge" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
