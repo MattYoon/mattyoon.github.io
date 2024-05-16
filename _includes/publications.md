@@ -8,7 +8,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
     <div class="title"><a href="https://arxiv.org/abs/2401.10695">LangBridge: Multilingual Reasoning Without Multilingual Supervision</a></div>
     <div class="author"><strong>[Dongkeun Yoon]</strong>, Joel Jang, Sungdong Kim, Seungone Kim, Sheikh Shafayat, Minjoon Seo </div>
-    <div class="periodical"><em>Arxiv preprint</em></div>
+    <div class="periodical"><em>ACL 2024</em></div>
     <div class="links">
       <a href="https://github.com/kaistAI/LangBridge" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
