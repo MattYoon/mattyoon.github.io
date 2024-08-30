@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am an MS & PhD integrated student at KAIST [Language and Knowledge Lab](https://lklab.kaist.ac.kr/). I am interested in second language adaptation of language models. More specifically, I want to convert strong language models such as LLaMa to low-resource languages ([LangBridge](https://arxiv.org/abs/2401.10695)). I recently started a project focused on the code generation capabilities of LLMs and am eager to discuss this further. Please feel free to reach out to me!
+Hello! I am an MS & PhD integrated student at KAIST [Language and Knowledge Lab](https://lklab.kaist.ac.kr/). I am interested in second language adaptation of language models. More specifically, I want to convert strong language models such as LLaMa to low-resource languages ([LangBridge](https://arxiv.org/abs/2401.10695)). Please feel free to reach out to me for discussion!
 
 ## Research Interests
 
