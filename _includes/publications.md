@@ -9,7 +9,7 @@
   <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
     <div class="title"><a href="https://arxiv.org/abs/2410.17578">MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models</a></div>
-    <div class="author">Guijin Son, <strong>[Dongkeun Yoon*]</strong>, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristià, Lucía Tormo-Bañuelos, Seungone Kim</div>
+    <div class="author">Guijin Son*, <strong>[Dongkeun Yoon*]</strong>, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, Shayekh Bin Islam, Jaume Prats-Cristià, Lucía Tormo-Bañuelos, Seungone Kim</div>
     <div class="periodical"><em>Oct 2024</em></div>
     <div class="links">
       <a href="https://github.com/guijinSON/MM-Eval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
