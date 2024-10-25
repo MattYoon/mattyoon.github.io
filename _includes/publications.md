@@ -4,7 +4,7 @@
 <div class="periodical"><em><strong>*Equal Contribution</strong></em></div>
   
 <ol class="bibliography">
-<h3 id="year" style="margin: 2px 0px ;">Preprints</h3>
+<h3 id="year" style="margin: 2px 0px ;">Preprint</h3>
 <li>
   <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
