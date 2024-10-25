@@ -1,7 +1,8 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-<div class="periodical"><em><strong>*Equal Contribution</strong></em></div>
 
 <div class="publications">
+<div class="periodical"><em><strong>*Equal Contribution</strong></em></div>
+  
 <ol class="bibliography">
 <h3 id="year" style="margin: 2px 0px ;">Preprints</h3>
 <li>
