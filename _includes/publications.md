@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div class="periodical"><em><strong>*Equal Contribution</strong></em></div>
 
 <div class="publications">
 <ol class="bibliography">
@@ -40,7 +41,7 @@
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
     <div class="title"><a href="https://arxiv.org/abs/2306.07052">Gradient Ascent Post-training Enhances Language Model Generalization</a></div>
-    <div class="author"><strong>[Dongkeun Yoon*]</strong>, Joel Jang*, Sungdong Kim, Minjoon Seo (*Equal Contribution)</div>
+    <div class="author"><strong>[Dongkeun Yoon*]</strong>, Joel Jang*, Sungdong Kim, Minjoon Seo </div>
     <div class="periodical"><em>ACL 2023</em></div>
     <div class="links">
       <a href="https://github.com/kaistAI/GAP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
