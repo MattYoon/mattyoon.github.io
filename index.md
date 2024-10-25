@@ -8,11 +8,11 @@ Hello! I am an MS & PhD integrated student at KAIST [Language and Knowledge Lab]
 
 ## Research Interests
 
-- **Multilingualism, Code Generation, Large Language Models**
+- **Multilingualism, Large Language Models**
 
 ## News
+- **[Oct 2024]** I will be joining [LG EXAONE Lab.](https://www.lgresearch.ai/ourwork/research?tab=PF) as a research intern.
 - **[May 2024]** [LangBridge](https://arxiv.org/abs/2401.10695) was accepted to ACL 2024 Main conference.
-- **[Mar 2024]** [LangBridge](https://arxiv.org/abs/2401.10695) was accepted to ICLR 2024 Me-FoMo workshop.
 - **[June 2023]** I was accepted to KAIST MS & PhD integrated program!
 - **[May 2023]** Our [Gradient Ascent Post-training](https://arxiv.org/abs/2306.07052) and [Knowledge Unlearning](https://arxiv.org/abs/2210.01504) papers were accepted to ACL 2023 main conference.
 
