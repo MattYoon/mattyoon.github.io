@@ -9,7 +9,7 @@
 
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
-    <div class="title"><a href="https://arxiv.org/abs/2505.14489">Reasoning models better express their confidence</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2505.14489">Reasoning Models Better Express Their Confidence</a></div>
     <div class="author"><strong>[Dongkeun Yoon]</strong>, Seungone Kim, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo</div>
     <div class="periodical"><em>May 2025</em></div>
   </div>
