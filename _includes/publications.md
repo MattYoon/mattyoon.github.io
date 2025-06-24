@@ -48,7 +48,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
     <div class="title"><a href="https://arxiv.org/abs/2406.05761">The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models</a></div>
     <div class="author">Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, <strong>[Dongkeun Yoon]</strong>,…</div>
-    <div class="periodical"><em>NAACL 2025 (Best Paper)</em></div>
+    <div class="periodical"><em>NAACL 2025 (🎉Best Paper)</em></div>
   </div>
 </div>
 <div class="pub-row">
