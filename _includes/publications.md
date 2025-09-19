@@ -9,23 +9,6 @@
 
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
-    <div class="title"><a href="https://arxiv.org/abs/2505.14489">Reasoning Models Better Express Their Confidence</a></div>
-    <div class="author"><strong>[Dongkeun Yoon]</strong>, Seungone Kim, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo</div>
-    <div class="periodical"><em>May 2025</em></div>
-  </div>
-</div>
-
-
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
-    <div class="title"><a href="https://arxiv.org/abs/2504.04953">M-Prometheus: A Suite of Open Multilingual LLM Judges</a></div>
-    <div class="author">José Pombal, <strong>[Dongkeun Yoon]</strong>, Patrick Fernandes, Ian Wu, Seungone Kim, Ricardo Rei, Graham Neubig, André FT Martins</div>
-    <div class="periodical"><em>Apr 2025</em></div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
     <div class="title"><a href="https://arxiv.org/abs/2412.01340">A 2-step Framework for Automated Literary Translation Evaluation: Its Promises and Pitfalls</a></div>
     <div class="author">Sheikh Shafayat, <strong>[Dongkeun Yoon]</strong>, Woori Jang, Jiwoo Choi, Alice Oh, Seohyon Jung</div>
     <div class="periodical"><em>Dec 2024</em></div>
@@ -43,6 +26,22 @@
 </li>
 <h3 id="year" style="margin: 2px 0px ;">Conference</h3>
 <li>
+
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
+    <div class="title"><a href="https://arxiv.org/abs/2505.14489">Reasoning Models Better Express Their Confidence</a></div>
+    <div class="author"><strong>[Dongkeun Yoon]</strong>, Seungone Kim, Sohee Yang, Sunkyoung Kim, Soyeon Kim, Yongil Kim, Eunbi Choi, Yireun Kim, Minjoon Seo</div>
+    <div class="periodical"><em>NeurIPS 2025</em></div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
+    <div class="title"><a href="https://arxiv.org/abs/2504.04953">M-Prometheus: A Suite of Open Multilingual LLM Judges</a></div>
+    <div class="author">José Pombal, <strong>[Dongkeun Yoon]</strong>, Patrick Fernandes, Ian Wu, Seungone Kim, Ricardo Rei, Graham Neubig, André FT Martins</div>
+    <div class="periodical"><em>COLM 2025</em></div>
+  </div>
+</div>
 
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
