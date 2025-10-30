@@ -8,6 +8,6 @@ Hello! I am an MS & PhD integrated student at KAIST [Language and Knowledge Lab]
 
 ## Research Interests
 
-- **Multilingualism, Large Language Models**
+- **Multilingualism, Reasoning, Large Language Models**
 
 {% include_relative _includes/publications.md %}
