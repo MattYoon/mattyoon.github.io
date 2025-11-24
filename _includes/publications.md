@@ -4,26 +4,7 @@
 <div class="periodical"><em><strong>*Equal Contribution</strong></em></div>
   
 <ol class="bibliography">
-<h3 id="year" style="margin: 2px 0px ;">Preprint</h3>
-<li>
 
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
-    <div class="title"><a href="https://arxiv.org/abs/2412.01340">A 2-step Framework for Automated Literary Translation Evaluation: Its Promises and Pitfalls</a></div>
-    <div class="author">Sheikh Shafayat, <strong>[Dongkeun Yoon]</strong>, Woori Jang, Jiwoo Choi, Alice Oh, Seohyon Jung</div>
-    <div class="periodical"><em>Dec 2024</em></div>
-  </div>
-</div>
-  
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
-    <div class="title"><a href="https://arxiv.org/abs/2410.17578">MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models</a></div>
-    <div class="author">Guijin Son*, <strong>[Dongkeun Yoon*]</strong>, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim,…</div>
-    <div class="periodical"><em>Oct 2024</em></div>
-  </div>
-</div>
-
-</li>
 <h3 id="year" style="margin: 2px 0px ;">Conference</h3>
 <li>
 
@@ -78,6 +59,27 @@
     <div class="periodical"><em>CIKM 2022</em></div>
   </div>
 </div>
+</li>
+
+<h3 id="year" style="margin: 2px 0px ;">Preprint</h3>
+<li>
+
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
+    <div class="title"><a href="https://arxiv.org/abs/2412.01340">A 2-step Framework for Automated Literary Translation Evaluation: Its Promises and Pitfalls</a></div>
+    <div class="author">Sheikh Shafayat, <strong>[Dongkeun Yoon]</strong>, Woori Jang, Jiwoo Choi, Alice Oh, Seohyon Jung</div>
+    <div class="periodical"><em>Dec 2024</em></div>
+  </div>
+</div>
+  
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
+    <div class="title"><a href="https://arxiv.org/abs/2410.17578">MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models</a></div>
+    <div class="author">Guijin Son*, <strong>[Dongkeun Yoon*]</strong>, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim,…</div>
+    <div class="periodical"><em>Oct 2024</em></div>
+  </div>
+</div>
+
 </li>
 <br>
 
