@@ -75,7 +75,7 @@
 </li>
 
 
-<h3 id="year" style="margin: 2px 0px ;">Preprint</h3>
+<h3 id="year" style="margin: 0px 0px ;">Preprint</h3>
 <li>
 
 <div class="pub-row">
