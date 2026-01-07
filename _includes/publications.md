@@ -21,7 +21,7 @@
    *ACL 2024*
 
 5. [Gradient Ascent Post-training Enhances Language Model Generalization](https://arxiv.org/abs/2306.07052)  
-   **[Dongkeun Yoon\*]**, Joel Jang*, Sungdong Kim, Minjoon Seo  
+   **[Dongkeun Yoon\*]**, Joel Jang\*, Sungdong Kim, Minjoon Seo  
    *ACL 2023*
 
 6. [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/abs/2210.01504)  
@@ -45,5 +45,5 @@
    *arXiv preprint, Dec 2024*
 
 2. [MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models](https://arxiv.org/abs/2410.17578)  
-   Guijin Son*, **[Dongkeun Yoon\*]**, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, …  
+   Guijin Son\*, **[Dongkeun Yoon\*]**, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Vu Trong Kim, …  
    *arXiv preprint, Oct 2024*
