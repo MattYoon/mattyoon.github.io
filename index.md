@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am an MS & PhD integrated student at KAIST [Language and Knowledge Lab](https://lklab.kaist.ac.kr/) advised by Minjoon Seo. 
+Hello! I am a PhD student at KAIST AI co-advised by [Alice Oh](https://aliceoh9.github.io/) and [Minjoon Seo](https://seominjoon.github.io/).
 
 My main research focus is multilinguality. There are two reasons for this:
 
