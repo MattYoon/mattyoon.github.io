@@ -15,6 +15,6 @@ Currently, I'm experimenting ideas to reduce unfairness in LLM tokenizers across
 
 ## Research Interests
 
-- **Multilingualism, Reasoning, Large Language Models**
+- **LLMs, Multilingualism, and Tokenizers**
 
 {% include_relative _includes/publications.md %}
