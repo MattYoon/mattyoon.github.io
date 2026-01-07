@@ -61,6 +61,20 @@
 </div>
 </li>
 
+<h3 id="year" style="margin: 2px 0px ;">Technical Report</h3>
+<li>
+
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 10px">
+    <div class="title"><a href="https://arxiv.org/abs/2601.01739v1">K-EXAONE Technical Report</a></div>
+    <div class="author">LG AI Research</div>
+    <div class="periodical"><em>Jan 2026</em></div>
+  </div>
+</div>
+
+</li>
+
+
 <h3 id="year" style="margin: 2px 0px ;">Preprint</h3>
 <li>
 
