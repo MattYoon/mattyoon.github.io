@@ -6,7 +6,7 @@ layout: homepage
 
 Hello! I am a PhD student at KAIST AI co-advised by [Alice Oh](https://aliceoh9.github.io/) and [Minjoon Seo](https://seominjoon.github.io/).
 
-I am a PhD student at KAIST AI advised by Alice Oh and Minjoon Seo. My research so far has focused on various topics in LLMs including multilinguality, reasoning models, and evaluation. More recently, I have been exploring speech understanding and generation, as well as text–speech foundation models (omni-models). Please feel free to reach out if you’d like to discuss anything 🙂
+My research so far has focused on various topics in LLMs including multilinguality, reasoning models, and evaluation. More recently, I have been exploring speech understanding and generation, as well as text–speech foundation models (omni-models). Please feel free to reach out if you’d like to discuss anything 🙂
 
 ## Research Interests
 
