@@ -10,6 +10,6 @@ My research so far has focused on various topics in LLMs including multilinguali
 
 ## Research Interests
 
-- **LLMs, Multilingualism, and Speech**
+- **LLMs, Multilingualism, Low-resource NLP, and Speech**
 
 {% include_relative _includes/publications.md %}
