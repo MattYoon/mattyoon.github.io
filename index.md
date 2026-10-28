@@ -8,6 +8,10 @@ Hello! I am a Ph.D. student at KAIST AI, co-advised by [Alice Oh](https://aliceo
 
 My research focuses on LLMs, with a current emphasis on tool-use agents. I have also worked on multilinguality, reasoning models, and evaluation, and I am interested in speech and omni-models. Please feel free to reach out if you’d like to discuss anything 🙂
 
+## Research Interests
+
+- **LLMs, Tool-use Agents, Multilinguality, Low-resource NLP, and Speech**
+
 ## Experience
 
 - **Amazon Web Services (AWS)**, Applied Scientist Intern, Jun 2026 – Present
