@@ -8,7 +8,7 @@ email: dkyoon (at) kaist.ac.kr
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Dongkeun Yoon, Dongkeun, Yoon, MattYoon, Matt Yoon, DKYoon
-description: Dongkeun Yoon's personal page
+description: Dongkeun Yoon, Ph.D. student at KAIST AI working on LLMs and tool-use agents.
 canonical: https://mattyoon.github.io/
 
 # Links 
@@ -16,6 +16,7 @@ canonical: https://mattyoon.github.io/
 google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=7JGKJb4AAAAJ
 cv_link: ./assets/files/Dongkeun_Yoon_CV.pdf
 github_link: https://github.com/MattYoon
+linkedin: https://www.linkedin.com/in/dongkeun-yoon-99017819a/
 twitter: https://twitter.com/dongkeun_yoon
 
 # Images (e.g., your profile picture and your website's favicon) 

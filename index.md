@@ -12,4 +12,12 @@ My research focuses on LLMs, with a current emphasis on tool-use agents. I have 
 
 - **LLMs, Tool-use Agents, Multilinguality, Low-resource NLP, and Speech**
 
+## Experience
+
+- **Amazon Web Services (AWS)**, Applied Scientist Intern, Jun 2026 – Present
+- **LG AI Research**, Research Intern, Oct 2024 – Jul 2025
+- **KAIST**, Research Intern, Jul 2022 – Jul 2023
+- **Konkuk University**, Undergraduate Researcher, Oct 2020 – Jun 2022
+- **KfirstLab Co.**, Software Development Intern, Jul 2021 – Aug 2021
+
 {% include_relative _includes/publications.md %}

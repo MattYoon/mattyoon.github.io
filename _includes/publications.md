@@ -42,7 +42,7 @@
 
 ### Technical Report
 
-1. [K-EXAONE Technical Report](https://arxiv.org/abs/2601.01739v1)  
+1. [K-EXAONE Technical Report](https://arxiv.org/abs/2601.01739)  
    LG AI Research  
    *Jan 2026*
 
