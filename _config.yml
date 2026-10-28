@@ -1,7 +1,8 @@
 # Basic Information 
 title: Dongkeun Yoon
-position: MS & PhD integrated student
+position: "Ph.D. Student"
 affiliation: KAIST
+affiliation_link: https://www.kaist.ac.kr/en/
 email: dkyoon (at) kaist.ac.kr
 
 # Search Engine Optimization (SEO)
@@ -13,7 +14,7 @@ canonical: https://mattyoon.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=7JGKJb4AAAAJ
-cv_link: https://drive.google.com/file/d/1i3CNSxRccGbw-psD5tzw5SkAyDGYJyiu/view?usp=sharing
+cv_link: ./assets/files/Dongkeun_Yoon_CV.pdf
 github_link: https://github.com/MattYoon
 twitter: https://twitter.com/dongkeun_yoon
 
