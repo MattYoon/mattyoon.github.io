@@ -10,7 +10,7 @@ My research focuses on LLMs, with a current emphasis on tool-use agents. I have 
 
 ## Research Interests
 
-- **LLMs, Tool-use Agents, Multilinguality, Low-resource NLP, and Speech**
+- **LLMs, Post-training, Tool-use Agents, Multilinguality, Low-resource NLP, and Speech**
 
 ## Experience
 
